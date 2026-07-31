@@ -1,249 +1,137 @@
-# 📋 Gestão de Projetos
+# Gestão de Projetos – Conteúdos da Disciplina
 
-<p align="center">
+Este repositório reúne materiais didáticos, conteúdos teóricos, planos de aula, apresentações, atividades e estudos de caso da disciplina **Gestão de Projetos**.
 
-![Project Management](https://img.shields.io/badge/Project-Management-2563EB?style=for-the-badge)
-![Planning](https://img.shields.io/badge/Planning-Execution-0EA5E9?style=for-the-badge)
-![Leadership](https://img.shields.io/badge/Leadership-Team-success?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Methodologies-Agile%20%26%20Traditional-orange?style=for-the-badge)
-![Education](https://img.shields.io/badge/Education-Management-purple?style=for-the-badge)
-
-</p>
+O objetivo deste repositório é centralizar e organizar os conteúdos desenvolvidos ao longo da disciplina, servindo como apoio ao processo de ensino-aprendizagem, revisão dos conceitos, realização de atividades e consulta acadêmica.
 
 ---
 
-# 📖 Sobre a Disciplina
+# 🎯 Objetivo da Disciplina
 
-A disciplina de **Gestão de Projetos** apresenta os conceitos, práticas e ferramentas utilizadas para planejar, organizar, executar, monitorar e encerrar projetos em diferentes contextos organizacionais.
+A disciplina de **Gestão de Projetos** tem como finalidade desenvolver capacidades técnicas e socioemocionais relacionadas à coordenação de projetos de integração de sistemas computacionais em ambientes de produção industrial.
 
-Ao longo da disciplina, os estudantes desenvolvem uma visão sistêmica sobre a gestão de projetos, compreendendo a importância do planejamento estratégico, da comunicação, da liderança, da tomada de decisão e da gestão eficiente de recursos para alcançar objetivos previamente estabelecidos.
-
-O estudo da área contribui para o desenvolvimento de competências voltadas à organização de equipes, gerenciamento de riscos, controle de prazos, qualidade e melhoria contínua, preparando os estudantes para atuar em ambientes cada vez mais dinâmicos e colaborativos.
+Ao longo da disciplina, o estudante desenvolverá conhecimentos para estruturar, planejar, executar, monitorar e controlar projetos, utilizando metodologias tradicionais e ágeis, além de ferramentas de apoio ao gerenciamento de projetos.
 
 ---
 
-# 🎯 Objetivos Gerais
+# 📚 Conteúdos Abordados
 
-A disciplina busca desenvolver a capacidade de:
+Os materiais deste repositório estão organizados conforme o desenvolvimento da disciplina.
 
-- 📋 Planejar projetos de forma estruturada;
-- 🎯 Definir objetivos e metas;
-- 📅 Organizar cronogramas e atividades;
-- 👥 Gerenciar equipes e recursos;
-- ⚠️ Identificar e analisar riscos;
-- 📊 Monitorar indicadores de desempenho;
-- 🤝 Promover comunicação eficiente entre as partes interessadas;
-- 🚀 Aplicar boas práticas de gestão.
+## Gerenciamento de Projetos
 
----
+- Áreas de gerenciamento de projetos
+- Processos de gerenciamento de projetos
+- Restrição Tripla
+- Normas técnicas e legislação contratual
 
-# 🧠 Competências Desenvolvidas
+## Planejamento do Projeto
 
-| Competência | Descrição |
-|-------------|-----------|
-| 🎯 Planejamento | Organização das etapas do projeto |
-| 📊 Gestão | Administração de recursos e processos |
-| 👥 Liderança | Coordenação de equipes |
-| 💬 Comunicação | Compartilhamento eficiente de informações |
-| ⚠️ Gestão de Riscos | Identificação e tratamento de incertezas |
-| 📈 Análise | Acompanhamento de resultados |
-| 🤝 Colaboração | Trabalho integrado entre equipes |
-| 🚀 Melhoria Contínua | Aperfeiçoamento de processos |
+- Definição do escopo
+- Entregas
+- Estimativa de esforços
+- Custos
+- Planejamento do tempo
+- Alocação de recursos
+- Gestão de riscos
+- Ferramentas de gerenciamento de projetos
 
----
+## Controle do Projeto
 
-# 📚 Temas Abordados
+- Implementação dos planos
+- Controle de alterações
+- Monitoramento do projeto
+- Finalização do projeto
 
-A disciplina pode contemplar temas como:
+## Ferramentas Ágeis
 
-- 📖 Fundamentos da Gestão de Projetos
-- 🎯 Planejamento Estratégico
-- 📋 Escopo do Projeto
-- 📅 Cronograma e Sequenciamento de Atividades
-- 💰 Gestão de Recursos
-- 👥 Gestão de Equipes
-- 💬 Comunicação em Projetos
-- ⚠️ Gestão de Riscos
-- 📊 Indicadores de Desempenho
-- 📝 Documentação
-- 🔄 Monitoramento e Controle
-- 🏁 Encerramento de Projetos
-- 🚀 Melhoria Contínua
-- 🌍 Métodos Tradicionais e Ágeis
+- Scrum
+- Kanban
+- eXtreme Programming (XP)
+- Feature Driven Development (FDD)
+- Microsoft Solutions Framework (MSF)
+- Dynamic Systems Development Model (DSDM)
 
 ---
 
-# 🛠️ Ferramentas e Recursos
+# 💡 Capacidades Desenvolvidas
 
-A disciplina pode utilizar diferentes recursos para apoiar a gestão dos projetos.
+Ao final da disciplina espera-se que o estudante seja capaz de:
 
-| Categoria | Exemplos |
-|------------|----------|
-| 📋 Planejamento | Cronogramas e planos de trabalho |
-| 📊 Gestão Visual | Quadros e dashboards |
-| 📝 Documentação | Relatórios e registros |
-| 👥 Colaboração | Plataformas de comunicação |
-| 📈 Indicadores | Ferramentas de acompanhamento |
-| 🔀 Versionamento | Controle de alterações |
+- Utilizar metodologias ágeis no gerenciamento de projetos;
+- Definir estruturas para gestão de projetos;
+- Otimizar recursos durante o desenvolvimento do projeto;
+- Aplicar normas técnicas e legislação contratual;
+- Utilizar softwares de gerenciamento de projetos;
+- Realizar o controle da qualidade da execução dos projetos;
+- Avaliar riscos durante o desenvolvimento do projeto.
 
----
+Além das competências técnicas, serão desenvolvidas competências relacionadas à:
 
-# 🔄 Ciclo de Vida de um Projeto
-
-```text
-Iniciação
-     │
-     ▼
-Planejamento
-     │
-     ▼
-Execução
-     │
-     ▼
-Monitoramento e Controle
-     │
-     ▼
-Encerramento
-     │
-     ▼
-Lições Aprendidas
-```
+- Aprendizagem ativa;
+- Criatividade e inovação;
+- Ética profissional;
+- Trabalho colaborativo;
+- Resolução de problemas complexos.
 
 ---
 
-# 🎓 Metodologia
+# 🧑‍🏫 Metodologia
 
-A disciplina privilegia a aprendizagem baseada em situações reais e na resolução de problemas.
+Os conteúdos deste repositório refletem as metodologias adotadas na disciplina, tais como:
 
-As atividades podem envolver:
-
-- 📖 Aulas expositivas;
-- 📊 Estudos de caso;
-- 🤝 Dinâmicas em grupo;
-- 📝 Planejamento de projetos;
-- 🚀 Desenvolvimento de projetos práticos;
-- 💬 Discussões sobre boas práticas;
-- 📈 Análise de indicadores;
-- 🎯 Simulações de gestão.
+- Aulas expositivas;
+- Estudos de caso;
+- Atividades práticas;
+- Desenvolvimento de projetos;
+- Atividades em grupo;
+- Discussões orientadas;
+- Utilização de ferramentas computacionais para gestão de projetos;
+- Avaliações teóricas e práticas.
 
 ---
 
-# 📊 Avaliação
+# 📝 Avaliação
 
-O processo de avaliação poderá considerar diferentes instrumentos.
+A avaliação da disciplina seguirá a distribuição estabelecida para as unidades curriculares dos Cursos Superiores de Tecnologia e Bacharelado:
 
-| Aspecto | Objetivo |
-|----------|----------|
-| 📋 Planejamento | Organização do projeto |
-| 🚀 Desenvolvimento | Aplicação dos conceitos |
-| 📊 Gestão | Acompanhamento das atividades |
-| 🤝 Trabalho em equipe | Colaboração e comunicação |
-| 📈 Evolução | Desenvolvimento das competências |
+- **55%** — Avaliação Docente;
+- **35%** — Projeto Integrador;
+- **10%** — Autoavaliação.
 
 ---
 
-# 📂 Organização do Repositório
+# 📖 Referências Bibliográficas
 
-```text
-📁 materiais/
-📁 estudos-de-caso/
-📁 atividades/
-📁 projetos/
-📁 templates/
-📁 recursos/
-📁 documentos/
-📄 README.md
-```
+## Bibliografia Básica
 
----
+- CARVALHO, Fábio Câmara Araújo de. **Gestão de Projetos**. 2. ed. Pearson, 2018.
+- SOUZA, Carla Patricia da Silva. **Gestão de Projetos**. Contentus, 2020.
+- BUENO, Gislaine. **Gestão de Projetos para Cybersecurity**. Contentus, 2020.
 
-# 📌 Áreas da Gestão de Projetos
+## Bibliografia Complementar
 
-| Área | Finalidade |
-|------|------------|
-| 📋 Integração | Coordenação geral do projeto |
-| 🎯 Escopo | Definição do trabalho necessário |
-| ⏳ Tempo | Planejamento e controle do cronograma |
-| 💰 Recursos | Utilização eficiente dos recursos |
-| ⭐ Qualidade | Garantia dos padrões estabelecidos |
-| 👥 Pessoas | Gestão da equipe |
-| 💬 Comunicação | Fluxo de informações |
-| ⚠️ Riscos | Tratamento das incertezas |
-| 🤝 Partes Interessadas | Relacionamento com stakeholders |
+- BUNGART, José Wagner; POSSARLE, Roberto. **Metodologia de Projetos: conceitos, planejamento e desenvolvimento**.
+- CRUZ, Fábio. **Scrum e Agile em Projetos**.
+- CRUZ, Fábio. **Scrum e PMBOK Unidos no Gerenciamento de Projetos**.
+- FINOCCHIO JÚNIOR, José. **Project Model Canvas: gerenciamento de projetos sem burocracia**.
+- SUTHERLAND, Jeffrey. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**.
 
 ---
 
-# 📌 Boas Práticas
+# 📌 Público-alvo
 
-Este repositório incentiva:
+Este repositório é destinado a:
 
-- ✅ Planejamento eficiente
-- ✅ Organização da documentação
-- ✅ Comunicação transparente
-- ✅ Trabalho colaborativo
-- ✅ Gestão de riscos
-- ✅ Controle de mudanças
-- ✅ Melhoria contínua
-- ✅ Registro de decisões
-- ✅ Acompanhamento de indicadores
-- ✅ Compartilhamento de conhecimento
+- Estudantes da área de Tecnologia da Informação;
+- Estudantes de cursos superiores de tecnologia;
+- Docentes da área de Computação;
+- Profissionais interessados em Gestão de Projetos.
 
 ---
 
-# 🌱 Competências Esperadas
+# ⚠️ Observações
 
-Ao concluir a disciplina, espera-se que o estudante desenvolva habilidades relacionadas a:
+Os conteúdos disponibilizados neste repositório possuem finalidade exclusivamente educacional e acompanham o desenvolvimento da disciplina.
 
-| Área | Competência |
-|------|-------------|
-| 📋 Planejamento | Organização de projetos |
-| 👥 Liderança | Coordenação de equipes |
-| 📊 Gestão | Controle de processos |
-| 💬 Comunicação | Integração entre stakeholders |
-| ⚠️ Análise | Avaliação de riscos e oportunidades |
-| 🚀 Inovação | Busca por soluções eficientes |
-
----
-
-# 📖 Materiais de Apoio
-
-Os estudos podem ser complementados por diferentes fontes de conhecimento:
-
-- 📘 Livros especializados
-- 📄 Artigos científicos
-- 🌐 Guias e normas
-- 🎥 Videoaulas
-- 💬 Comunidades profissionais
-- 📚 Estudos de caso
-- 📊 Relatórios e pesquisas
-
----
-
-# 🌍 Importância da Gestão de Projetos
-
-A gestão de projetos é uma competência essencial para organizações de diferentes setores, contribuindo para a organização do trabalho, utilização eficiente dos recursos, redução de riscos e alcance de objetivos estratégicos.
-
-Independentemente da área de atuação, a capacidade de planejar, acompanhar e concluir projetos de forma estruturada representa um diferencial importante para profissionais e equipes.
-
----
-
-# 📚 Organização Geral
-
-| Item | Informação |
-|------|------------|
-| 🎓 Área | Gestão |
-| 📋 Foco | Gestão de Projetos |
-| 🌎 Aplicação | Multidisciplinar |
-| 🤝 Metodologia | Aprendizagem Ativa |
-| 📈 Abordagem | Teórico-Prática |
-| 🚀 Evolução | Contínua |
-
----
-
-<div align="center">
-
-## 📋 *Projetos transformam ideias em resultados.*
-
-**Gerenciar projetos é integrar pessoas, processos e recursos para alcançar objetivos de forma organizada, eficiente e sustentável, promovendo colaboração, inovação e geração de valor.**
-
-</div>
+Os materiais podem ser atualizados ao longo do semestre, respeitando o planejamento didático, os objetivos de aprendizagem e as referências bibliográficas adotadas.
