@@ -377,7 +377,7 @@ A apresentação deverá responder:
 
 # 16. 👥 Organização do grupo
 
-Recomenda-se trabalhar em grupos de **4 a 6 alunos**.
+Recomenda-se trabalhar em grupos de **4 a 10 alunos**.
 
 O grupo pode distribuir funções entre os integrantes, por exemplo:
 
